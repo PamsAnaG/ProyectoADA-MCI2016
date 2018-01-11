@@ -1,5 +1,6 @@
 # ProyectoADA-MCI2016
 # Pamela Anaid Gutérrez Vargas
+# 2017
 
 
 Documentar la instalación de los componentes de software necesarios para realizar las actividades en el curso, incluyendo tareas y actividades en clase. 
